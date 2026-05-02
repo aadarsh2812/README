@@ -75,40 +75,19 @@ Product Layer      →   IoT Devices ·  MVP Dev  ·  PCB Design        ·  Hard
 
 <div align="center">
 
-<table border="0" cellpadding="20">
-<tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Synopsys_Logo.svg" height="45" alt="Synopsys" /><br>
-<sub><b>Synopsys</b></sub><br>
-<sub>VCS · Verdi · Fusion Compiler</sub>
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Cadence_Design_Systems_logo.svg" height="35" alt="Cadence" /><br>
-<sub><b>Cadence</b></sub><br>
-<sub>Custom Compiler</sub>
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Xilinx_logo.svg" height="35" alt="Xilinx" /><br>
-<sub><b>Xilinx Vivado</b></sub><br>
-<sub>AMD FPGA Design</sub>
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ltspice_logo.png" height="45" alt="LTspice" /><br>
-<sub><b>LTspice</b></sub><br>
-<sub>Circuit Simulation</sub>
-</td>
-<td align="center">
-<img src="https://image.easyeda.com/images/easyeda-square-logo.png" height="45" alt="EasyEDA" /><br>
-<sub><b>EasyEDA</b></sub><br>
-<sub>PCB & Schematic</sub>
-</td>
-<td align="center">
-<img src="https://www.altium.com/assets/img/altium-logo.svg" height="35" alt="Altium" /><br>
-<sub><b>Altium</b></sub><br>
-<sub>PCB Design</sub>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Synopsys-VCS%20·%20Verdi%20·%20Fusion%20Compiler-0099CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjMDA5OUNDIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/Cadence-Custom%20Compiler-A020F0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjQTAyMEYwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/Xilinx%20Vivado-AMD%20FPGA%20Design-E01020?style=for-the-badge&logo=amd&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/LTspice-Circuit%20Simulation-8B0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjOEIwMDAwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/EasyEDA-PCB%20%26%20Schematic-00C3FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjMDBDM0ZGIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/Altium%20Designer-PCB%20Design-A5915F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjQTU5MTVGIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
+&nbsp;
+<img src="https://img.shields.io/badge/ModelSim-RTL%20Simulation-FF8C00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjEwIiBmaWxsPSIjRkY4QzAwIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI2MCIgeD0iMjAiPuKahDwvdGV4dD48L3N2Zz4=&logoColor=white&labelColor=0d1117" height="32" />
 
 </div>
 
